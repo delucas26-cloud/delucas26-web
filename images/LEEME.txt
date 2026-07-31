@@ -1,0 +1,39 @@
+Esta carpeta es donde debes subir las fotos reales del hostal.
+
+La página ya está preparada para mostrarlas automáticamente en cuanto
+subas un archivo con el nombre exacto indicado a continuación (misma
+carpeta "images", mismo nombre, en minúsculas):
+
+  images/habitacion-1.jpg   -> foto de una habitación
+  images/bano.jpg           -> foto de un baño privado
+  images/fachada.jpg        -> foto de la entrada o fachada del hostal
+  images/nosotros.jpg       -> foto del equipo o de la recepción
+
+Recomendaciones:
+- Usa fotos en formato .jpg, con buena luz (a poder ser luz natural).
+- Un tamaño de unos 1600 px de ancho es más que suficiente (no hace
+  falta subir fotos enormes, la web tardaría más en cargar).
+- Si quieres usar otro nombre de archivo, solo tienes que abrir
+  index.html con el Editor de código de IONOS (o cualquier editor de
+  texto) y cambiar el nombre dentro del atributo src="images/..." por
+  el que hayas usado.
+
+Mientras no subas fotos, en esos huecos se ve un marco de "postal"
+decorativo, así que la web nunca se ve rota.
+
+Fotos del carrusel nocturno del hero (portada)
+------------------------------------------------
+Estas ya las has descargado y colocado tú mismo, ¡genial! Solo para que
+quede constancia de qué es cada una:
+
+  images/noche-1.jpg  -> Skyline general de Madrid iluminado
+  images/noche-2.jpg  -> Edificio Metropolis de noche
+  images/noche-3.jpg  -> Edificio Telefónica al anochecer, con luna
+  images/noche-4.jpg  -> Vista aérea nocturna de la Gran Vía
+  images/noche-5.jpg  -> Plaza del Callao de noche, larga exposición
+  images/noche-6.jpg  -> Torre del reloj de la Puerta del Sol al anochecer
+
+Si en algún momento quieres cambiar una foto, sube un archivo nuevo con
+ese mismo nombre exacto (sustituyendo al anterior) y se actualiza sola.
+Si un archivo no existe o falla al cargar, esa foto se salta del
+carrusel sin romper nada; el resto sigue funcionando con normalidad.
